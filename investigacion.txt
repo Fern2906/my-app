@@ -1,0 +1,4 @@
+Use de claude para investigar como se usan los outputs y en general como mandar parametros
+mediante los outputs en este caso declarando la variable deleteUser que me ayuda
+a obtener mediante el evento del boton (onDelete) a mandarle el parametro del id mediante 
+una variable de tipo number y ya solo con el for vuelve a revisar la lista actualizada

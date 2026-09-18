@@ -1,6 +1,4 @@
 import { Component, computed, signal, WritableSignal } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
-import { MyCounter } from "./my-counter/my-counter";
 import { User } from './models/user.model';
 import { UserCard } from "./components/user-card/user-card";
 import { Controls } from './components/controls/controls';
